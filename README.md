@@ -20,5 +20,5 @@ I’m currently working middle NextJS developer on regional media news
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=YKMman&count_weight=1&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKMman&theme=radical&layout=compact&show_icons=true)](https://github.com/YKMman)
 
