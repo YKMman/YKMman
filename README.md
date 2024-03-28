@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m Kirill Ustinov and i like Frontend 
+I’m currently working middle NextJS developer on regional media news
+
+
