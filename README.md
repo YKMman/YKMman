@@ -21,7 +21,6 @@ I’m currently working middle Next.JS developer on regional media news
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=YKMman&count_weight=1&langs_count=10&layout=compact&show_icons=true&theme=radical&hide=html,css,scss,pug)](https://github.com/anuraghazra/github-readme-stats)
 
 My resume:
-
-[Ustinov.pdf](https://github.com/user-attachments/files/15540433/Ustinov.pdf)
+[Ustinov1.pdf](https://github.com/user-attachments/files/15569823/Ustinov1.pdf)
 
 
